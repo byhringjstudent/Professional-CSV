@@ -1,4 +1,4 @@
-
+#
 # Jekyll Resume Site Template
 
 This template gives you a personal resume website, hosted for free on GitHub Pages. It's also a hands-on way to learn how a Jekyll site works. The demo content belongs to **Victor E. Huskie**, NIU's mascot. Your job is to replace it, piece by piece, with your own.
